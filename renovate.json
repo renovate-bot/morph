@@ -2,5 +2,5 @@
   "extends": [
     "config:base"
   ],
-  "renovateForks": true
+  "includeForks": true
 }
