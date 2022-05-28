@@ -130,7 +130,7 @@ GEM
       shoulda
     polylines (0.1.0)
     posix-spawn (0.3.6)
-    rack (1.4.1)
+    rack (1.6.13)
     remote_table (2.0.2)
       activesupport (>= 2.3.4)
       fastercsv (>= 1.5.0)
@@ -254,7 +254,7 @@ DEPENDENCIES
   pismo (= 0.7.2)
   polylines (= 0.1.0)
   posix-spawn (= 0.3.6)
-  rack (= 1.4.1)
+  rack (= 1.6.13)
   remote_table (= 2.0.2)
   rfgraph (= 0.3)
   roo (= 1.10.0)
