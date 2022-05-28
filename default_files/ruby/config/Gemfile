@@ -51,7 +51,7 @@ gem "i18n", "0.6.8"
 # on the mozilla js engine which I'm having trouble finding an easy
 # way to install
 # gem "johnson", "2.0.0.pre3"
-gem "json", "1.8.6"
+gem "json", "2.3.0"
 gem "jwt", "0.1.4"
 gem "libxml-ruby", "2.8.0"
 gem "log4r", "1.1.9"
