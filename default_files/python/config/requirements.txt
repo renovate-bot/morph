@@ -30,7 +30,7 @@ dataset==0.5.2
 demjson==1.6
 dropbox==1.4
 errorhandler==1.1.1
-feedparser==5.0.1
+feedparser==5.1.2
 fluidinfo.py==1.1.2
 gdata==2.0.15
 geopy==0.94.1
